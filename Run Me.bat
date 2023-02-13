@@ -1,0 +1,1 @@
+PowerShell.exe -executionpolicy bypass -file "augh.ps1"
